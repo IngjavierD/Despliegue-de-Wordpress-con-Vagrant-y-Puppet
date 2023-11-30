@@ -51,7 +51,3 @@ Asegúrate de tener instalados los siguientes elementos en tu máquina antes de 
 ## Contribuciones
 
 Si encuentras errores o tienes mejoras sugeridas, siéntete libre de abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
